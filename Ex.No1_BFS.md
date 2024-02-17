@@ -1,9 +1,13 @@
 # Ex.No: 1  Implementation of Breadth First Search 
 ### DATE: 17/02/2024                                                                            
 ### REGISTER NUMBER : 212221040180
+
 ### AIM: 
+
 To write a python program to implement Breadth first Search. 
+
 ### Algorithm:
+
 1. Start the program
 2. Create the graph by using adjacency list representation
 3. Define a function bfs and take the set “visited” is empty and “queue” is empty
@@ -55,4 +59,5 @@ bfs(visited, graph, '2')
 
 
 ### Result:
+
 Thus the breadth first search order was found sucessfully.
