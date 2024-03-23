@@ -12,6 +12,14 @@ To write a logic program to design a circuit like half adder and half subtractor
 6. Design a half adder and half subtractor using the rules.
 7. Test the logic.
 8. Stop the program.
+
+
+
+
+
+
+
+   
 ### Program:
 ```
 xor(0,1,1).
