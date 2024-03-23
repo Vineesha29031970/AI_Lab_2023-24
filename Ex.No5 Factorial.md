@@ -22,7 +22,8 @@ factorial(A,B) :-
 ```
 
 ### Output:
-![ai](https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/cd9fb6c9-d72d-4f88-832e-40051a52b030)
+<img width="473" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/e7a5c046-d730-4253-96e5-8041b75d70c6">
+
 
 
 
