@@ -41,7 +41,7 @@ problem(blank_display).
 ```
 
 ### Output:
-<img width="93" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/df3bafd6-3cee-44da-8bae-4e071c42014d">
+<img width="100" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/df3bafd6-3cee-44da-8bae-4e071c42014d">
 
 
 
