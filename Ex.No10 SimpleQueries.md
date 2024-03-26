@@ -60,7 +60,7 @@ in_department(bk301, have_fun).
 ```
 
 ### Output:
-<img width="430" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/277f61ce-cc46-405a-a901-2414cad29091">
+<img width="440" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/277f61ce-cc46-405a-a901-2414cad29091">
 
 
 ### Task 3:
