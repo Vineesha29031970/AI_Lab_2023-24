@@ -13,6 +13,13 @@ Write a Prolog program to build a medical Diagnosis Expert System.
 7. Call the predicates and Collect the symptoms of Patient and give the hypothesis of disease.
         
 
+
+
+
+
+
+
+
 ### Program:
 ```
 hypothesis(Patient,german_measles) :-
