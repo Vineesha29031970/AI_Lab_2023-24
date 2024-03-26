@@ -60,7 +60,7 @@ in_department(bk301, have_fun).
 ```
 
 ### Output:
-<img width="424" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/277f61ce-cc46-405a-a901-2414cad29091">
+<img width="430" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/277f61ce-cc46-405a-a901-2414cad29091">
 
 
 ### Task 3:
@@ -93,7 +93,7 @@ american(west).
 
 ### Output:
 
-<img width="153" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/ce90dfcd-294c-4b52-808e-ff81e94bcc71">
+<img width="223" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/ce90dfcd-294c-4b52-808e-ff81e94bcc71">
 
 
 ### Result:
