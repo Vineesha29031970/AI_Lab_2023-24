@@ -93,7 +93,7 @@ american(west).
 
 ### Output:
 
-<img width="103" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/ce90dfcd-294c-4b52-808e-ff81e94bcc71">
+<img width="153" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/ce90dfcd-294c-4b52-808e-ff81e94bcc71">
 
 
 ### Result:
