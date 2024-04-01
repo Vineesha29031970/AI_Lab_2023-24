@@ -43,7 +43,7 @@ Step 10 : Obtain the plan for given problem.<br>
 :parameters (?ob ?underob)
 :precondition (and (on ?ob ?underob) (clear ?ob) (arm-empty))
 :effect (and (holding ?ob) (clear ?underob)
-(not (on ?ob ?underob)) (not (clear ?ob)) (not (armempty))))
+(not (on ?ob ?underob)) (not (clear ?ob)) (not (arm-empty))))
 ```
 
 ### Input 
