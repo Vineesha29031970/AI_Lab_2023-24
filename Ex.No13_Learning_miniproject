@@ -2,13 +2,50 @@
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
-To write a program to train the classifier for -----------------.
+To write a program to train the classifier for Diabetes Prediction.
 ###  Algorithm:
+1.Start the program.
+
+2.Import required Python libraries, including NumPy, Pandas, Google Colab, Gradio, and various scikit-learn modules.
+
+3.Mount Google Drive using Google Colab's 'drive.mount()' method to access the data file located in Google Drive.
+
+4.Install the Gradio library using 'pip install gradio'.
+
+5.Load the diabetes dataset from a CSV file ('diabetes.csv') using Pandas.
+
+6.Separate the target variable ('Outcome') from the input features and Scale the input features using the StandardScaler from scikit-learn.
+
+7.Create a multi-layer perceptron (MLP) classifier model using scikit-learn's 'MLPClassifier'.
+
+8.Train the model using the training data (x_train and y_train).
+
+9.Define a function named 'diabetes' that takes input parameters for various features and Use the trained machine learning model to predict the outcome based on the input features.
+
+10.Create a Gradio interface using 'gr.Interface' and Specify the function to be used to make predictions based on user inputs.
+
+11.Launch the Gradio web application, enabling sharing, to allow users to input their data and get predictions regarding diabetes risk.
+
+12.Stop the program.
 
 ### Program:
+```
+import numpy as np
+import pandas as pd
+
+pip install gradio
+pip install typing-extensions --upgrade
+import gradio as gr
+```
+```
+data = pd.read_csv('diabetes.csv')
+data.head()
+```
+
 
 
 ### Output:
+
 
 
 ### Result:
